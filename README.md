@@ -4,7 +4,7 @@
 This repository is for the final project of Advanced Machine Learning concerning about reinforcement learning. 
 
 ### Members
-Mengqi Chen; Jing Cao; Yuwei Zeng; Hongxiang Luo
+Mengqi Chen; Jing Cao; Yuwei Zeng; Xianghong Luo
 
 ### Environment
 https://gym.openai.com
